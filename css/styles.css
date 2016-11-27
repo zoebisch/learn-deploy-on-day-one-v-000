@@ -137,6 +137,14 @@ a:visited {
   background-image: url("http://i.imgur.com/sPskPNH.jpg");
 }
 
+#tom-su-cover {
+  background-image: url("http://datas.series-tv-shows.com/pic/tvdb/2448/fanart.jpg");
+}
+ 
+#tom-su-card {
+   background-image: url("http://imgur.com/ftlyRw2.png");
+}
+
 #kym-rohman-cover {
   background-image: url("http://kymrohman.com/images/twitter_header-paint.jpg");
 }
