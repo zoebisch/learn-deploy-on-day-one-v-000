@@ -4587,6 +4587,14 @@ a:visited {
   background-image: url("http://imgur.com/Z0PdJfb.jpg");
 }
 
+#rachel-lim-cover {
+    background-image: url("http://i.imgur.com/yb6Dn4Y.jpg");
+  }
+ 
+#rachel-lim-card {
+    background-image: url("http://i.imgur.com/lFqgSu2.jpg?1");
+  }
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
