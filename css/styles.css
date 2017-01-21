@@ -4603,6 +4603,14 @@ a:visited {
     background-image: url("http://i.imgur.com/lFqgSu2.jpg?1");
   }
 
+#j-ilustrisimo-cover {
+    background-image: url("http://imgur.com/tz3yg9t.jpg");
+}
+
+#j-ilustrisimo-card {
+    background-image: url("http://imgur.com/KwWDJT0.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
