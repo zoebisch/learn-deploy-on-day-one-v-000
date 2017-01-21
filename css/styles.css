@@ -348,25 +348,12 @@ a:visited {
   background-image: url("http://i.imgur.com/9ZCUerO.jpg");
 }
 
-#dom-mckellar-cover {
-  background-image: url("http://i.imgur.com/C9Z9zyN.jpg");
-  border: 3px #63bedc solid;
-  -webkit-transition: 0.2s;
-  -moz-transition: 0.2s;
-  -o-transition: 0.2s;
-  transition: 0.2s;
-}
-
-#dom-mckellar-cover:hover {
-  -webkit-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -o-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  transform: scale(1.1);
-}
-
 #dom-mckellar-card {
   background-image: url("http://i.imgur.com/uZ8GJ7o.jpg");
+}
+
+#dom-mckellar-cover {
+  background-image: url("http://i.imgur.com/C9Z9zyN.jpg");
 }
 
 #kenlyn-terai-cover{
