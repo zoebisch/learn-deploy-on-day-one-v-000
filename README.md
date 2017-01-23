@@ -101,4 +101,4 @@ You may need to cycle a few times until everything looks good. Once you're happy
 
 #### Submit!
 
-  1. Easy, after modifying `index.html` and `css/styles.css`, and adding your `firstname-lastname.html` file, just submit a Pull Request back to us. We'll take a look ASAP and get your change merged and deployed.
+  1. Easy, just submit a Pull Request back to us. We'll take a look ASAP and get your change merged and deployed.
