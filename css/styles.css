@@ -135,11 +135,11 @@ a:visited {
 }
 
 #liah-wallace-cover {
-  background-image: url(http://i.imgur.com/q6UEs0A.jpg);
+  background-image: url("http://i.imgur.com/q6UEs0A.jpg");
 }
 
 #liah-wallace-card {
-  background-image: url(http://i.imgur.com/L8tQPq9.jpg);
+  background-image: url("http://i.imgur.com/L8tQPq9.jpg");
 }
 
 #brendan-dwyer-cover {
