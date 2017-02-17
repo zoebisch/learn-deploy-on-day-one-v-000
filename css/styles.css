@@ -133,8 +133,89 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#krystle-barnes-cover {
+    background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
+}
+
+#krystle-barnes-card {
+    background-image: url("http://i.imgur.com/581hDKs.jpg");
+}
+
+#liah-wallace-cover {
+  background-image: url("http://i.imgur.com/q6UEs0A.jpg");
+}
+
+#liah-wallace-card {
+  background-image: url("http://i.imgur.com/L8tQPq9.jpg");
+}
+
+#art-rodriguez-cover {
+  background-image: url("http://i.imgur.com/EwESaI4.jpg");
+}
+
+#art-rodriguez-card {
+   background-image: url("http://i.imgur.com/38uEKNq.jpg");
+}
+
+#parker-thompson-cover {
+  background-image: url("http://i.imgur.com/0SW3Es4.jpg");
+}
+
+#parker-thompson-card {
+  background-image: url("http://i.imgur.com/9Sj5oQX.jpg");
+}
+
+#velin-mihaylov-cover {
+   background-image: url("http://i.imgur.com/54CRrSP.jpg");
+}
+
+#velin-mihaylov-card {
+   background-image: url("http://i.imgur.com/jkqUitk.jpg");
+}
+
+#adrian-dave-cover {
+ background-image: url("http://i.imgur.com/8vaYeiK.jpg");
+}
+
+#adrian-dave-card {
+ background-image: url("http://i.imgur.com/OAtGfR1.png");
+}
+
+#camille-jackson-cover {
+  background-image: url("http://i.imgur.com/zmRzr3x.jpg");
+}
+
+#camille-jackson-card {
+  background-image: url("http://i.imgur.com/EaQSEzg.png");
+}
+
+#alex-glover-cover {
+  background-image: url("http://i.imgur.com/WRIiNAE.jpg")
+}
+
+#alex-glover-card {
+  background-image: url("http://i.imgur.com/Crz5fyk.jpg")
+}
+
+#scott-young-cover {
+   background-image: url("http://i.imgur.com/adLfP4b.jpg");
+ }
+
+ #scott-young-card {
+   background-image: url("http://i.imgur.com/F1W5ExJ.jpg");
+ }
+
 #brendan-dwyer-cover {
   background-image: url("http://i.imgur.com/sPskPNH.jpg");
+}
+
+#tom-su-cover {
+  background-image: url("http://datas.series-tv-shows.com/pic/tvdb/2448/fanart.jpg");
+}
+
+#tom-su-card {
+   background-image: url("http://imgur.com/ftlyRw2.png");
 }
 
 #kym-rohman-cover {
@@ -172,6 +253,14 @@ a:visited {
   background-image: url("http://i.imgur.com/ULwPlo0.jpg");
 }
 
+#yamini-kumawat-cover {
+    background-image: url("http://i.imgur.com/aIWeRqw.jpg");
+  }
+#yamini-kumawat-card {
+  background-image: url("http://i.imgur.com/3K1Dkik.jpg");
+}
+
+
 #teresa-grosch-cover {
   background-image: url("http://imgur.com/VcbIKew.jpg");
 }
@@ -182,6 +271,14 @@ a:visited {
 
 #shannon-mccormack-cover {
   background-image: url("http://i.imgur.com/cpQOEk8.jpg");
+}
+
+#jonathan-foster-card {
+  background-image: url("http://i.imgur.com/UWjiEJg.jpg?1");
+}
+
+#jonathan-foster-cover {
+  background-image: url("http://i.imgur.com/r8O2FZw.jpg");
 }
 
 #shannon-mccormack-card {
@@ -2564,6 +2661,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/bryony-delahoussaye.jpg");
 }
 
+#krishel-lasam-cover {
+ background-image: url("http://i.imgur.com/2rKLYiV.jpg");
+}
+
+#krishel-lasam-card {
+ background-image: url("http://i.imgur.com/PfPl2PL.jpg");
+}
+
 #frank-nowinski-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/frank-nowinski.jpg");
 }
@@ -4167,6 +4272,18 @@ a:visited {
  background-image: url("http://i.imgur.com/Ssr3x8N.jpg");
 }
 
+#jenna-mandel-cover {
+   background-image: url("http://i.imgur.com/bKiWgG4.jpg");
+ }
+
+ #jenna-mandel-card {
+   background-image: url("http://i.imgur.com/xQGgqJH.jpg");
+ }
+
+
+
+
+
 #yechiel-k-cover {
   background-image: url("http://i.imgur.com/fcm6zBK.jpg");
   -webkit-transition: 0.2s;
@@ -4512,6 +4629,38 @@ a:visited {
 
 #charlie-lee-cover {
   background-image: url("http://i.imgur.com/PD5eyBV.jpg");
+}
+
+#nick-ratti-cover {
+  background-image: url("http://i.imgur.com/TdfdtJ1.jpg");
+}
+
+#nick-ratti-card {
+  background-image: url("http://i.imgur.com/XhnMcYy.jpg");
+}
+
+#jenna-leopold-cover {
+  background-image: url("http://imgur.com/gGpCUtl.jpg");
+}
+
+#jenna-leopold-card {
+  background-image: url("http://imgur.com/Z0PdJfb.jpg");
+}
+
+#rachel-lim-cover {
+    background-image: url("http://i.imgur.com/yb6Dn4Y.jpg");
+  }
+
+#rachel-lim-card {
+    background-image: url("http://i.imgur.com/lFqgSu2.jpg?1");
+  }
+
+#j-ilustrisimo-cover {
+    background-image: url("http://imgur.com/tz3yg9t.jpg");
+}
+
+#j-ilustrisimo-card {
+    background-image: url("http://imgur.com/KwWDJT0.jpg");
 }
 
 .view-profile-div {
