@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#krystle-barnes-cover {
+    background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
+}
+
+#krystle-barnes-card {
+    background-image: url("http://i.imgur.com/581hDKs.jpg");
+}
+
 #liah-wallace-cover {
   background-image: url("http://i.imgur.com/q6UEs0A.jpg");
 }
@@ -205,7 +213,7 @@ a:visited {
 #tom-su-cover {
   background-image: url("http://datas.series-tv-shows.com/pic/tvdb/2448/fanart.jpg");
 }
- 
+
 #tom-su-card {
    background-image: url("http://imgur.com/ftlyRw2.png");
 }
@@ -4634,7 +4642,7 @@ a:visited {
 #rachel-lim-cover {
     background-image: url("http://i.imgur.com/yb6Dn4Y.jpg");
   }
- 
+
 #rachel-lim-card {
     background-image: url("http://i.imgur.com/lFqgSu2.jpg?1");
   }
