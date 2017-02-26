@@ -4663,6 +4663,14 @@ a:visited {
     background-image: url("http://imgur.com/KwWDJT0.jpg");
 }
 
+#justin-kenney-cover {
+  background-image: url("http://i.imgur.com/HHETdsk.jpg?1");
+}
+
+#justin-kenney-card {
+  background-image: url("http://i.imgur.com/SoF81t1.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
