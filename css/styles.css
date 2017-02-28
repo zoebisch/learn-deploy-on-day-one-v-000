@@ -1,7 +1,6 @@
 
 /* GLOBAL STYLES
 ======================== */
-
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -132,6 +131,14 @@ a:visited {
   position: relative;
   display: block;
   height: 400px;
+}
+
+#feiran-wang-cover {
+    background-image: url("http://i.imgur.com/LXDzh6X.jpg");
+}
+
+#feiran-wang-card {
+    background-image: url("http://i.imgur.com/GG21X1Z.jpg");
 }
 
 #krystle-barnes-cover {
