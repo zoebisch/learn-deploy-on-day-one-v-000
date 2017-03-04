@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#liliana-alonzo-cover {
+   background-image: url("http://imgur.com/xvSCjuE.jpg");
+ }
+
+ #liliana-alonzo-card {
+   background-image: url("http://imgur.com/CBCbmih.jpg");
+ }
+
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
 }
