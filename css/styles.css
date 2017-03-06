@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#rachel-walwood-cover {
+  background-image: url("http://i.imgur.com/pSDloX3.jpg");
+}
+
+#rachel-walwood-card {
+  background-image: url("http://i.imgur.com/Dcxrkgh.jpg")
+}
+
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
 }
