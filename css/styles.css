@@ -1,7 +1,6 @@
 
 /* GLOBAL STYLES
 ======================== */
-
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -142,12 +141,67 @@ a:visited {
     background-image: url("http://i.imgur.com/hCqOsbm.jpg");
 }
 
+#sophia-varella-cover {
+    background-image: url("http://i.imgur.com/v9ZXh0g.jpg");
+}
+
+#sophia-varella-card {
+    background-image: url("http://i.imgur.com/nYAiY70.jpg");
+}
+
+#kevin-armada-cover{
+  background-image: url("http://i.imgur.com/S37AtdG.jpg");
+}
+
+#kevin-armada-card{
+  background-image: url("http://i.imgur.com/rS6rvqM.jpg");
+}
+
+#sara-hopper-card {
+    background-image: url("http://i.imgur.com/nuduTQO.jpg");
+}
+
+#sara-hopper-cover {
+    background-image: url("http://i.imgur.com/kNfenuh.jpg");
+}
+
+#feiran-wang-cover {
+    background-image: url("http://i.imgur.com/LXDzh6X.jpg");
+}
+
+#feiran-wang-card {
+    background-image: url("http://i.imgur.com/GG21X1Z.jpg");
+}
+
+#liliana-alonzo-cover {
+   background-image: url("http://imgur.com/xvSCjuE.jpg");
+}
+
+#liliana-alonzo-card {
+   background-image: url("http://imgur.com/CBCbmih.jpg");
+}
+
+#rachel-walwood-cover {
+  background-image: url("http://i.imgur.com/pSDloX3.jpg");
+}
+
+#rachel-walwood-card {
+  background-image: url("http://i.imgur.com/Dcxrkgh.jpg")
+}
+
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
 }
 
 #krystle-barnes-card {
     background-image: url("http://i.imgur.com/581hDKs.jpg");
+}
+#nick-frank-cover {
+    background-image: url("http://i.imgur.com/A5ui5DN.jpg");
+}
+
+#nick-frank-card {
+    background-image: url("http://i.imgur.com/yn3A0Jp.jpg");
 }
 
 #liah-wallace-cover {
@@ -164,6 +218,14 @@ a:visited {
 
 #art-rodriguez-card {
    background-image: url("http://i.imgur.com/38uEKNq.jpg");
+}
+
+#hannah-jiang-cover {
+  background-image: url("http://i.imgur.com/2IXgt9T.jpg");
+}
+
+#hannah-jiang-card {
+  background-image: url("http://i.imgur.com/nXhpKcc.jpg");
 }
 
 #parker-thompson-cover {
@@ -479,6 +541,14 @@ a:visited {
 
 #ryan-evans-cover{
   background-image: url("http://i.imgur.com/IF10Iy6.jpg");
+}
+
+#siobhan-martin-card{
+  background-image: url("http://i.imgur.com/ym0X1WH.jpg");
+}
+
+#siobhan-martin-cover{
+  background-image: url("http://i.imgur.com/o2qDTUa.jpg");
 }
 
 #ryan-evans-card{
@@ -4668,7 +4738,71 @@ a:visited {
 }
 
 #j-ilustrisimo-card {
-    background-image: url("http://imgur.com/KwWDJT0.jpg");
+  background-image: url("http://imgur.com/KwWDJT0.jpg");
+}
+
+#jarrel-delottinville-cover {
+  background-image: url("http://imgur.com/cD04NtY.jpg");
+}
+
+#jarrel-delottinville-card {
+    background-image: url("http://imgur.com/BzKyfjO.jpg");
+}
+
+#henno-fourie-cover {
+    background-image: url("http://i.imgur.com/36CD4g4.jpg");
+}
+
+#henno-fourie-card {
+    background-image: url("http://i.imgur.com/niDK06s.jpg");
+}
+
+#cannon-herbert-cover {
+    background-image: url("http://i.imgur.com/QLJzDA5.jpg?1");
+}
+
+#cannon-herbert-card {
+    background-image: url("http://i.imgur.com/fvF44rn.jpg");
+}
+
+#daniela-carvajal-cover {
+    background-image: url("http://i.imgur.com/4v5GkSo.jpg");
+}
+
+#daniela-carvajal-card {
+    background-image: url("http://i.imgur.com/oekmzfe.jpg");
+}
+
+#kelsey-huse-cover {
+  background-image: url("http://imgur.com/uQL2yOT.jpg");
+}
+
+#kelsey-huse-card {
+  background-image: url("http://imgur.com/pbRyK32.jpg");
+}
+
+#justin-kenney-cover {
+  background-image: url("http://i.imgur.com/HHETdsk.jpg?1");
+}
+
+#justin-kenney-card {
+  background-image: url("http://i.imgur.com/SoF81t1.jpg");
+}
+
+#kelly-kashuda-cover {
+  background-image: url("http://imgur.com/Dolgy1Y.jpg")
+}
+
+#kelly-kashuda-card {
+  background-image: url("http://imgur.com/lOgiOyH.jpg")
+}
+
+#aimee-carney-cover {
+    background-image: url("http://imgur.com/SkS45mw.jpg");
+}
+
+#aimee-carney-card {
+    background-image: url("http://imgur.com/cDtNGGi.jpg7");
 }
 
 .view-profile-div {
